@@ -29,4 +29,8 @@ To get a Git project into your build:
 	            }
   
   
-  
+  Note:
+   	In your manifest file put the below line:
+	
+	
+	<uses-sdk tools:overrideLibrary="com.avm.naadhaar_decode" />
