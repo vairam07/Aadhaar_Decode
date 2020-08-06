@@ -1,0 +1,3 @@
+include ':Naadhaar_Decode'
+include ':app'
+rootProject.name = "Aadhaar_Decode"
